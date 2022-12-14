@@ -1,7 +1,3 @@
 화이팅
-<<<<<<< HEAD
 world
-=======
-red
->>>>>>> b15fd8278bbc85a2ed8532ac9c382fcf9afddb45
 
