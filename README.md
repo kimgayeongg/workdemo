@@ -90,4 +90,4 @@ _이텔릭_
 
 ### 이미지(images)
 
-![naver]https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20221207_186%2F1670411185510VD2nt_JPEG%2FSE-7d0dd6da-0941-4634-8c03-609572ba6e5c.jpg%22&type=nf340_228()
+![naver](https://s.pstatic.net/static/www/mobile/edit/20221214/cropImg_728x360_112955548973432846.jpeg)
